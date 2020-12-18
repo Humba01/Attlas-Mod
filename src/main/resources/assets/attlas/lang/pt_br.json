@@ -1,26 +1,3 @@
 {
-  "itemGroup.attlas.sticks": "Attlas Mod - Gravetos",
-  "item.attlas.stone_stick": "Graveto de Pedra",
-  "item.attlas.iron_stick": "Graveto de Ferro",
-  "item.attlas.gold_stick": "Graveto de Ouro",
-  "item.attlas.steel_stick": "Graveto de Aço",
-  "item.attlas.diamond_stick": "Graveto de Diamante",
-  "item.attlas.platinum_stick": "Graveto de Platina",
-  "item.attlas.graphite_stick": "Graveto de Grafite",
-  "item.attlas.tumarines_stick": "Graveto de Tumarinas",
-  "item.attlas.granades_stick": "Graveto de Granadas",
-  "item.attlas.ruby_stick": "Graveto de Rubi",
-  "item.attlas.silver_stick": "Graveto de Prata",
-  "item.attlas.sapphire_stick": "Graveto de Safira",
-  "item.attlas.amethyst_stick": "Graveto de Ametista",
-  "item.attlas.ivory_stick": "Graveto de Marfim",
-  "item.attlas.amber_stick": "Graveto de Âmbar",
-  "item.attlas.cooper_stick": "Graveto de Cobre",
-  "item.attlas.lead_stick": "Graveto de Chumbo",
-  "item.attlas.slate_stick": "Graveto de Ardósia",
-  "item.attlas.agate_stick": "Graveto de Ágata",
-  "item.attlas.malaguita_stick": "Graveto de Malaguita",
-  "item.attlas.alabaster_stick": "Graveto de Alabastro",
-  "item.attlas.sodalite_stick": "Graveto de Sodalita",
-  "item.attlas.crystal_stick": "Graveto de Cristal"
+  "itemGroup.attlas.wools": "Attlas - Lãs"
 }
