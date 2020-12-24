@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "attlas:cooper_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:cooper_block",
+    "count": 1
+  }
+}

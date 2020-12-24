@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "attlas:invar_ore"
+  },
+  "result": "attlas:invar_ingot",
+  "experience": 4.0,
+  "cookingtime": 100 
+}

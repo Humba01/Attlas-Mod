@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "attlas:steel_ore",
+    "attlas:tin_ore",
+    "attlas:aluminum_ore",
+    "attlas:titanium_ore",
+    "attlas:bismuth_ore",
+    "attlas:silver_ore",
+    "attlas:cadmium_ore",
+    "attlas:cooper_ore",
+    "attlas:cobalt_ore",
+    "attlas:chrome_ore",
+    "attlas:iridium_ore",
+    "attlas:osmium_ore",
+    "attlas:vibranium_ore",
+    "attlas:adamantium_ore",
+    "attlas:nickel_ore",
+    "attlas:lead_ore",
+    "attlas:thallium_ore",
+    "attlas:indian_ore",
+    "attlas:bronze_ore",
+    "attlas:brass_ore",
+    "attlas:invar_ore",
+    "attlas:tombac_ore",
+    "attlas:nichrome_ore",
+    "attlas:electron_ore"
+  ]
+}

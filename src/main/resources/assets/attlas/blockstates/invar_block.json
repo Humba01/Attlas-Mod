@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "attlas:block/invar_block"
+    }
+  }
+}

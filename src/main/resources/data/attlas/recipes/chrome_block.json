@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "attlas:chrome_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:chrome_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "attlas:block/chrome_block"
+    }
+  }
+}

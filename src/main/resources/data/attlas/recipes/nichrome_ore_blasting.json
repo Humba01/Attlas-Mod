@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "attlas:nichrome_ore"
+  },
+  "result": "attlas:nichrome_ingot",
+  "experience": 4.0,
+  "cookingtime": 100 
+}

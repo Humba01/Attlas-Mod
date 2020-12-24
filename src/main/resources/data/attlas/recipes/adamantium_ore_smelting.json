@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "attlas:adamantium_ore"
+  },
+  "result": "attlas:adamantium_ingot",
+  "experience": 4.0,
+  "cookingtime": 250 
+}

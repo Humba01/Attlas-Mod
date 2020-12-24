@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "attlas:nickel_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:nickel_block",
+    "count": 1
+  }
+}

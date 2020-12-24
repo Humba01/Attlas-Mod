@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "attlas:bismuth_ore"
+  },
+  "result": "attlas:bismuth_ingot",
+  "experience": 4.0,
+  "cookingtime": 100 
+}

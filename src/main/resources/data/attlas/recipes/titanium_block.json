@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TTT",
+    "TTT"
+  ],
+  "key": {
+    "T": {
+      "item": "attlas:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:titanium_block",
+    "count": 1
+  }
+}

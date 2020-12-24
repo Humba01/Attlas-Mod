@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TTT",
+    "TTT"
+  ],
+  "key": {
+    "T": {
+      "item": "attlas:tombac_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:tombac_block",
+    "count": 1
+  }
+}

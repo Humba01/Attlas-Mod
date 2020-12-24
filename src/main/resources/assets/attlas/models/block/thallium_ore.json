@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "attlas:block/ores/group1/thallium_ore"
+  }
+}
