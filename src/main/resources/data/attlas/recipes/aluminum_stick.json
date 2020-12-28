@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " A ",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "attlas:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:aluminum_stick",
+    "count": 6
+  }
+}

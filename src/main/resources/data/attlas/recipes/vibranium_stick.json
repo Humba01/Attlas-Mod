@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " V ",
+    " V ",
+    "   "
+  ],
+  "key": {
+    "V": {
+      "item": "attlas:vibranium_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:vibranium_stick",
+    "count": 6
+  }
+}

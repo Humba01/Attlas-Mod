@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "attlas:block/crafting_tables/extended_crafting_table_front_tier5",
+    "down": "attlas:block/crafting_tables/extended_crafting_table_bottom_tier5",
+    "north": "attlas:block/crafting_tables/extended_crafting_table_front_tier5",
+    "south": "attlas:block/crafting_tables/extended_crafting_table_front_tier5",
+    "west": "attlas:block/crafting_tables/extended_crafting_table_side_tier5",
+    "east": "attlas:block/crafting_tables/extended_crafting_table_side_tier5",
+    "up": "attlas:block/crafting_tables/extended_crafting_table_top_tier5"
+  }
+}

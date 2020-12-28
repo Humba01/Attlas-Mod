@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    " S ",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "tag": "attlas:stones"
+    }
+  },
+  "result": {
+    "item": "attlas:stone_stick",
+    "count": 6
+  }
+}

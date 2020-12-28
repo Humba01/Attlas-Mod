@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " A ",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "attlas:adamantium_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:adamantium_stick",
+    "count": 6
+  }
+}
