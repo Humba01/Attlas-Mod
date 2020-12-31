@@ -11,7 +11,6 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class OresGroup1 {
-
   	
 	/* Ores Group 1 */
 	public static final Block STEEL_ORE = new Block(FabricBlockSettings.of(Material.STONE).hardness(10.1f).breakByTool(FabricToolTags.PICKAXES, 1).breakByHand(false).resistance(2.0f).requiresTool());

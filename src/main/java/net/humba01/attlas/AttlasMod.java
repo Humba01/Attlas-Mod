@@ -2,13 +2,12 @@ package net.humba01.attlas;
 
 import net.humba01.attlas.blocks.*;
 import net.humba01.attlas.itens.*;
-
+import net.humba01.attlas.tools.*;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
 import net.minecraft.util.Identifier;
 
 public class AttlasMod implements ModInitializer {
@@ -28,16 +27,8 @@ public class AttlasMod implements ModInitializer {
 
 	public static final ItemGroup STICKS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "sticks"), () -> new ItemStack(Sticks.STEEL_STICK));
 
-	public static final ItemGroup SWORDS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "swords"), () -> new ItemStack(Items.IRON_SWORD));
+	public static final ItemGroup WEAPONS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "swords"), () -> new ItemStack(Weapons.STEEL_SWORD));
 
-	public static final ItemGroup AXES = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "axes"), () -> new ItemStack(Items.IRON_AXE));
-
-	public static final ItemGroup PICKAXES = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "pickaxes"), () -> new ItemStack(Items.IRON_PICKAXE)); 
-
-	public static final ItemGroup SHOVELS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "shovels"), () -> new ItemStack(Items.IRON_SHOVEL)); 
-
-	public static final ItemGroup HOES = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "hoes"), () -> new ItemStack(Items.IRON_HOE)); 
-	
 	@Override
 	public void onInitialize() {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
@@ -52,6 +43,7 @@ public class AttlasMod implements ModInitializer {
 		OresGroup1.registryOresGroup1();
 		OresBlockGroup1.registryOresBlockGroup1();
 		Wools.registryWools();
+		Weapons.registrySwords();
 
 	}
 }
