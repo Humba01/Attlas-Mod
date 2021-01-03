@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "attlas:steel_sword",
+    "attlas:tin_sword",
+    "attlas:aluminum_sword",
+    "attlas:titanium_sword",
+    "attlas:bismuth_sword",
+    "attlas:silver_sword",
+    "attlas:cadmium_sword",
+    "attlas:cooper_sword",
+    "attlas:cobalt_sword",
+    "attlas:chrome_sword",
+    "attlas:osmium_sword",
+    "attlas:iridium_sword",
+    "attlas:nickel_sword",
+    "attlas:lead_sword",
+    "attlas:thallium_sword",
+    "attlas:indian_sword",
+    "attlas:bronze_sword",
+    "attlas:brass_sword",
+    "attlas:invar_sword",
+    "attlas:tombac_sword",
+    "attlas:nichrome_sword",
+    "attlas:electron_sword",
+    "attlas:vibranium_sword",
+    "attlas:adamantium_sword"
+  ]
+}

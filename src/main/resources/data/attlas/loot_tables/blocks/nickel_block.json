@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "attlas:nickel_ore"
+          "name": "attlas:nickel_block"
         }
       ]
     }

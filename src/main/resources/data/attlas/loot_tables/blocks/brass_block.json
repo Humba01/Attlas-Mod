@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "attlas:brass_ore"
+          "name": "attlas:brass_block"
         }
       ]
     }

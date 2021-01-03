@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "attlas:steel_hoe",
+    "attlas:tin_hoe",
+    "attlas:aluminum_hoe",
+    "attlas:titanium_hoe",
+    "attlas:bismuth_hoe",
+    "attlas:silver_hoe",
+    "attlas:cadmium_hoe",
+    "attlas:cooper_hoe",
+    "attlas:cobalt_hoe",
+    "attlas:chrome_hoe",
+    "attlas:osmium_hoe",
+    "attlas:iridium_hoe",
+    "attlas:nickel_hoe",
+    "attlas:lead_hoe",
+    "attlas:thallium_hoe",
+    "attlas:indian_hoe",
+    "attlas:bronze_hoe",
+    "attlas:brass_hoe",
+    "attlas:invar_hoe",
+    "attlas:tombac_hoe",
+    "attlas:nichrome_hoe",
+    "attlas:electron_hoe",
+    "attlas:vibranium_hoe",
+    "attlas:adamantium_hoe"
+  ]
+}

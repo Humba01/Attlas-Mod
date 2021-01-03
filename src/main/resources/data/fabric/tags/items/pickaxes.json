@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "attlas:steel_pickaxe",
+    "attlas:tin_pickaxe",
+    "attlas:aluminum_pickaxe",
+    "attlas:titanium_pickaxe",
+    "attlas:bismuth_pickaxe",
+    "attlas:silver_pickaxe",
+    "attlas:cadmium_pickaxe",
+    "attlas:cooper_pickaxe",
+    "attlas:cobalt_pickaxe",
+    "attlas:chrome_pickaxe",
+    "attlas:osmium_pickaxe",
+    "attlas:iridium_pickaxe",
+    "attlas:nickel_pickaxe",
+    "attlas:lead_pickaxe",
+    "attlas:thallium_pickaxe",
+    "attlas:indian_pickaxe",
+    "attlas:bronze_pickaxe",
+    "attlas:brass_pickaxe",
+    "attlas:invar_pickaxe",
+    "attlas:tombac_pickaxe",
+    "attlas:nichrome_pickaxe",
+    "attlas:electron_pickaxe",
+    "attlas:vibranium_pickaxe",
+    "attlas:adamantium_pickaxe"
+  ]
+}

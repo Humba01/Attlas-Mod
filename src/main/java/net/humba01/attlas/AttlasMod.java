@@ -27,7 +27,7 @@ public class AttlasMod implements ModInitializer {
 
 	public static final ItemGroup STICKS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "sticks"), () -> new ItemStack(Sticks.STEEL_STICK));
 
-	public static final ItemGroup WEAPONS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "swords"), () -> new ItemStack(Weapons.STEEL_SWORD));
+	public static final ItemGroup TOOLS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "tools"), () -> new ItemStack(Tools.STEEL_SWORD));
 
 	@Override
 	public void onInitialize() {
@@ -43,7 +43,11 @@ public class AttlasMod implements ModInitializer {
 		OresGroup1.registryOresGroup1();
 		OresBlockGroup1.registryOresBlockGroup1();
 		Wools.registryWools();
-		Weapons.registrySwords();
+		Tools.registrySwords();
+		Tools.registryAxes();
+		Tools.registryPickaxes();
+		Tools.registryShovels();
+		Tools.registryHoes();
 
 	}
 }

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "attlas:steel_axe",
+    "attlas:tin_axe",
+    "attlas:aluminum_axe",
+    "attlas:titanium_axe",
+    "attlas:bismuth_axe",
+    "attlas:silver_axe",
+    "attlas:cadmium_axe",
+    "attlas:cooper_axe",
+    "attlas:cobalt_axe",
+    "attlas:chrome_axe",
+    "attlas:osmium_axe",
+    "attlas:iridium_axe",
+    "attlas:nickel_axe",
+    "attlas:lead_axe",
+    "attlas:thallium_axe",
+    "attlas:indian_axe",
+    "attlas:bronze_axe",
+    "attlas:brass_axe",
+    "attlas:invar_axe",
+    "attlas:tombac_axe",
+    "attlas:nichrome_axe",
+    "attlas:electron_axe",
+    "attlas:vibranium_axe",
+    "attlas:adamantium_axe"
+  ]
+}

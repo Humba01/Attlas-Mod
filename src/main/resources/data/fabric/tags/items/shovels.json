@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "attlas:steel_shovel",
+    "attlas:tin_shovel",
+    "attlas:aluminum_shovel",
+    "attlas:titanium_shovel",
+    "attlas:bismuth_shovel",
+    "attlas:silver_shovel",
+    "attlas:cadmium_shovel",
+    "attlas:cooper_shovel",
+    "attlas:cobalt_shovel",
+    "attlas:chrome_shovel",
+    "attlas:osmium_shovel",
+    "attlas:iridium_shovel",
+    "attlas:nickel_shovel",
+    "attlas:lead_shovel",
+    "attlas:thallium_shovel",
+    "attlas:indian_shovel",
+    "attlas:bronze_shovel",
+    "attlas:brass_shovel",
+    "attlas:invar_shovel",
+    "attlas:tombac_shovel",
+    "attlas:nichrome_shovel",
+    "attlas:electron_shovel",
+    "attlas:vibranium_shovel",
+    "attlas:adamantium_shovel"
+  ]
+}
