@@ -681,7 +681,7 @@ public class Wools {
 	public static final Block YELLOW_UNMELLOW_WOOL = new Block(FabricBlockSettings.of(Material.WOOL).hardness(0.8f).sounds(BlockSoundGroup.WOOL));
   
   public static void registryWools() {
-    
+  /*  
 		Registry.register(Registry.BLOCK, new Identifier(AttlasMod.MOD_ID, "alba_porcelain_wool"), ALBA_PORCELAIN_WOOL);
 		Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "alba_porcelain_wool"), new BlockItem(ALBA_PORCELAIN_WOOL, new Item.Settings().group(AttlasMod.WOOLS)));
 		
@@ -690,8 +690,7 @@ public class Wools {
 		Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "bali_wool"), new BlockItem(BALI_WOOL, new Item.Settings().group(AttlasMod.WOOLS)));
 		Registry.register(Registry.BLOCK, new Identifier(AttlasMod.MOD_ID, "almond_beige_wool"), ALMOND_BEIGE_WOOL);
 		Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "almond_beige_wool"), new BlockItem(ALMOND_BEIGE_WOOL, new Item.Settings().group(AttlasMod.WOOLS)));
-		
-
+		*/
   }
 
 }
