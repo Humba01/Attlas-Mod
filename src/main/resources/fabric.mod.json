@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "attlas",
+  "version": "0.1.0",
 
   "name": "Attlas Mod",
   "description": "O Mod da Exploração.",

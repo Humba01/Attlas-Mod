@@ -5,7 +5,6 @@ import net.humba01.attlas.itens.*;
 import net.humba01.attlas.tools.*;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
-import net.minecraft.block.Blocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
@@ -17,8 +16,6 @@ public class AttlasMod implements ModInitializer {
 	/* Abas */
 	public static final ItemGroup WOOLS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "wools"), () -> new ItemStack(Wools.ALBA_PORCELAIN_WOOL));
 
-	public static final ItemGroup EXTENDED_CRAFTING_TABLES = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "crafting_tables"), () -> new ItemStack(Blocks.CRAFTING_TABLE));
-	
 	public static final ItemGroup ORES = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "ores"), () -> new ItemStack(OresGroup1.STEEL_ORE));
 	
 	public static final ItemGroup INGOTS = FabricItemGroupBuilder.build(new Identifier(AttlasMod.MOD_ID, "ingots"), () -> new ItemStack(Ingots.STEEL_INGOT));
@@ -39,7 +36,6 @@ public class AttlasMod implements ModInitializer {
 
 		Sticks.registrySticks();
 		Ingots.registryIngots();
-		CraftingTables.registryCraftingTables();
 		OresGroup1.registryOresGroup1();
 		OresBlockGroup1.registryOresBlockGroup1();
 		Wools.registryWools();
