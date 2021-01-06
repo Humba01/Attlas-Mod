@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    " T ",
+    " s "
+  ],
+  "key": {
+    "T": {
+      "item": "attlas:thallium_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:thallium_sword",
+    "count": 1
+  }
+}

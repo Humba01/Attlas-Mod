@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "attlas",
-  "version": "0.1.0",
+  "version": "${version}",
 
   "name": "Attlas Mod",
   "description": "O Mod da Exploração.",
@@ -9,7 +9,7 @@
     "Humba01"
   ],
   "contact": {
-    "homepage": "https://humbanew.com.br/",
+    "homepage": "https://github.com/Humba01",
     "sources": "https://github.com/Humba01/Attlas-Mod"
   },
 
@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "attlas.mixins.json"
   ],
 
   "depends": {

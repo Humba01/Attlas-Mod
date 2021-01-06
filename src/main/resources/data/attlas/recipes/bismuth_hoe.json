@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "B": {
+      "item": "attlas:bismuth_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:bismuth_sword",
+    "count": 1
+  }
+}

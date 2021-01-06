@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "B": {
+      "item": "attlas:bronze_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:bronze_pickaxe",
+    "count": 1
+  }
+}

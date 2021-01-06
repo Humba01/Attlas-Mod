@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " C ",
+    " s "
+  ],
+  "key": {
+    "C": {
+      "item": "attlas:chrome_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:chrome_sword",
+    "count": 1
+  }
+}

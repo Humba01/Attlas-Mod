@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II ",
+    "Is ",
+    " s "
+  ],
+  "key": {
+    "I": {
+      "item": "attlas:iridium_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:iridium_axe",
+    "count": 1
+  }
+}

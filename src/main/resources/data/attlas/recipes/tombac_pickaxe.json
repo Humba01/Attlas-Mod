@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "T": {
+      "item": "attlas:tombac_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:tombac_pickaxe",
+    "count": 1
+  }
+}

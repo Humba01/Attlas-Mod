@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    " L ",
+    " s "
+  ],
+  "key": {
+    "L": {
+      "item": "attlas:lead_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:lead_sword",
+    "count": 1
+  }
+}

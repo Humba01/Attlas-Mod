@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "B": {
+      "item": "attlas:brass_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:brass_hoe",
+    "count": 1
+  }
+}

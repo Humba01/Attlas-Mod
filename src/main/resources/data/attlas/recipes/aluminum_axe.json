@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA ",
+    "As ",
+    " s "
+  ],
+  "key": {
+    "A": {
+      "item": "attlas:aluminum_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:aluminum_axe",
+    "count": 1
+  }
+}

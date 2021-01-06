@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VVV",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "V": {
+      "item": "attlas:vibranium_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:vibranium_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " O ",
+    " O ",
+    " s "
+  ],
+  "key": {
+    "O": {
+      "item": "attlas:osmium_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:osmium_sword",
+    "count": 1
+  }
+}
