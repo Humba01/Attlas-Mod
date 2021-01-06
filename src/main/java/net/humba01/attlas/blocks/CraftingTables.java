@@ -27,7 +27,7 @@ public class CraftingTables {
       FabricBlockSettings.of(Material.WOOD).hardness(6.0f).resistance(1.4f).sounds(BlockSoundGroup.WOOD));
 
   public static void registryCraftingTables() {
-/*
+
     Registry.register(Registry.BLOCK, new Identifier(AttlasMod.MOD_ID, "extended_crafting_table_tier1"), EXTENDED_CRAFTING_TABLE_TIER1);
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "extended_crafting_table_tier1"), new BlockItem(EXTENDED_CRAFTING_TABLE_TIER1, new Item.Settings().group(AttlasMod.EXTENDED_CRAFTING_TABLES)));
     Registry.register(Registry.BLOCK, new Identifier(AttlasMod.MOD_ID, "extended_crafting_table_tier2"), EXTENDED_CRAFTING_TABLE_TIER2);
@@ -40,7 +40,7 @@ public class CraftingTables {
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "extended_crafting_table_tier5"), new BlockItem(EXTENDED_CRAFTING_TABLE_TIER5, new Item.Settings().group(AttlasMod.EXTENDED_CRAFTING_TABLES)));
     Registry.register(Registry.BLOCK, new Identifier(AttlasMod.MOD_ID, "extended_crafting_table_tier6"), EXTENDED_CRAFTING_TABLE_TIER6);
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "extended_crafting_table_tier6"), new BlockItem(EXTENDED_CRAFTING_TABLE_TIER6, new Item.Settings().group(AttlasMod.EXTENDED_CRAFTING_TABLES)));
-*/
+
   }
   
 }

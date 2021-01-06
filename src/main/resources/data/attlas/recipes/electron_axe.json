@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EE ",
+    "Es ",
+    " s "
+  ],
+  "key": {
+    "E": {
+      "item": "attlas:electron_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:electron_axe",
+    "count": 1
+  }
+}

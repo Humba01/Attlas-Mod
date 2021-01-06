@@ -49,7 +49,7 @@ public class Sticks {
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "cobalt_stick"), COBALT_STICK);
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "vibranium_stick"), VIBRANIUM_STICK);
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "adamantium_stick"), ADAMANTIUM_STICK);
-/*
+
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "silver_stick"), SILVER_STICK);
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "bismuth_stick"), BISMUTH_STICK);
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "cooper_stick"), COOPER_STICK);
@@ -66,7 +66,7 @@ public class Sticks {
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "tombac_stick"), TOMBAC_STICK);
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "nichrome_stick"), NICHROME_STICK);
     Registry.register(Registry.ITEM, new Identifier(AttlasMod.MOD_ID, "electron_stick"), ELECTRON_STICK);
-*/
+
   }
 }
 

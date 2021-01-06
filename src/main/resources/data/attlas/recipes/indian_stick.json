@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    " I ",
+    "   "
+  ],
+  "key": {
+    "I": {
+      "item": "attlas:indian_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:indian_stick",
+    "count": 6
+  }
+}

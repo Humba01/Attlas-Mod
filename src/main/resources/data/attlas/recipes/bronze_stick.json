@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " B ",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "attlas:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:bronze_stick",
+    "count": 6
+  }
+}

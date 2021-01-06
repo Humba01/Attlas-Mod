@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " C ",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "attlas:cooper_ingot"
+    }
+  },
+  "result": {
+    "item": "attlas:cooper_stick",
+    "count": 6
+  }
+}

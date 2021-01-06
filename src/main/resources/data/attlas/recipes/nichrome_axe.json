@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NN ",
+    "Ns ",
+    " s "
+  ],
+  "key": {
+    "N": {
+      "item": "attlas:nichrome_ingot"
+    },
+    "s": {
+      "item": "attlas:stone_stick"
+    }
+  },
+  "result": {
+    "item": "attlas:nichrome_axe",
+    "count": 1
+  }
+}
