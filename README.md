@@ -1,5 +1,7 @@
 # Attlas Mod - FabricMC
 
+$ Total Number of Itens/Blocks added: 224. $
+
 ## Changelog v0.1.0 - Minecraft JE 1.16.4 _=_ 13/01/2020
 
 ### 24 New Ores (Group 1)
