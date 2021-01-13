@@ -1,4 +1,4 @@
-# Attlas Mod
+# Attlas Mod - FabricMC
 
 ## Changelog v0.1.0 - Minecraft JE 1.16.4 _=_ 13/01/2020
 
