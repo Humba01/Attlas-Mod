@@ -1,4 +1,4 @@
-# Attlas Mod - FabricMC
+# Inquiry Mod 
 
 *This mod use FabricMC API*
 
