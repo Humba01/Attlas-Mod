@@ -1,8 +1,8 @@
 # Inquiry Mod 
 
-**Essa modificação usa FabricMC API**
+*Essa modificação usa FabricMC API*
 
-__Número total de Items e Blocos adicionados ===> 224.__
+_Número total de Items e Blocos adicionados ===> 224._
 
 ## Changelog v0.1.1 - Minecraft JE 1.16.4 _=_ 13/01/2021
 
