@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " B ",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "inquiry:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:bronze_stick",
+    "count": 6
+  }
+}

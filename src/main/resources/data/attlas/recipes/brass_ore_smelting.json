@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "attlas:brass_ore"
-  },
-  "result": "attlas:brass_ingot",
-  "experience": 4.0,
-  "cookingtime": 250 
-}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OOO",
+    "OOO"
+  ],
+  "key": {
+    "O": {
+      "item": "inquiry:osmium_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:osmium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "C": {
+      "item": "inquiry:cadmium_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:cadmium_pickaxe",
+    "count": 1
+  }
+}

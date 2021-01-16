@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "inquiry:electron_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:electron_block",
+    "count": 1
+  }
+}

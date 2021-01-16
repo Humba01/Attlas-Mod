@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "inquiry:block/ore_blocks/group1/iridium_block"
+  }
+}

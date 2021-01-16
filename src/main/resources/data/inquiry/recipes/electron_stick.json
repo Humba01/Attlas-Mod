@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    " E ",
+    "   "
+  ],
+  "key": {
+    "E": {
+      "item": "inquiry:electron_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:electron_stick",
+    "count": 6
+  }
+}

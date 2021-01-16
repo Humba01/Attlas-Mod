@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    " S ",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "inquiry:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:steel_stick",
+    "count": 6
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "C": {
+      "item": "inquiry:chrome_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:chrome_hoe",
+    "count": 1
+  }
+}

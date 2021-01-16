@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "inquiry:bismuth_ore"
+  },
+  "result": "inquiry:bismuth_ingot",
+  "experience": 4.0,
+  "cookingtime": 100 
+}

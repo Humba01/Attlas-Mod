@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "attlas:lead_ore"
-  },
-  "result": "attlas:lead_ingot",
-  "experience": 4.0,
-  "cookingtime": 250 
-}

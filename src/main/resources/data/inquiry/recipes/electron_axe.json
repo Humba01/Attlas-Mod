@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EE ",
+    "Es ",
+    " s "
+  ],
+  "key": {
+    "E": {
+      "item": "inquiry:electron_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:electron_axe",
+    "count": 1
+  }
+}

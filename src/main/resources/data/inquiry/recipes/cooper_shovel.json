@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "C": {
+      "item": "inquiry:cooper_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:cooper_shovel",
+    "count": 1
+  }
+}

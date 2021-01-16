@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "inquiry:invar_ore"
+  },
+  "result": "inquiry:invar_ingot",
+  "experience": 4.0,
+  "cookingtime": 250 
+}

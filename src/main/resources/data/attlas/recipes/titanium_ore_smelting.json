@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "attlas:titanium_ore"
-  },
-  "result": "attlas:titanium_ingot",
-  "experience": 4.0,
-  "cookingtime": 250 
-}

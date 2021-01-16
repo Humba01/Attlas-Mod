@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " C ",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "inquiry:cadmium_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:cadmium_stick",
+    "count": 6
+  }
+}

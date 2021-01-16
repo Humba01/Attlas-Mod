@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "attlas:bronze_ore"
-  },
-  "result": "attlas:bronze_ingot",
-  "experience": 4.0,
-  "cookingtime": 100 
-}

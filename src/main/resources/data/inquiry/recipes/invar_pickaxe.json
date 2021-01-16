@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "I": {
+      "item": "inquiry:invar_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:invar_pickaxe",
+    "count": 1
+  }
+}

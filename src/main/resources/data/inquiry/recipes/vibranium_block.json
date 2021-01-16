@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VVV",
+    "VVV",
+    "VVV"
+  ],
+  "key": {
+    "V": {
+      "item": "inquiry:vibranium_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:vibranium_block",
+    "count": 1
+  }
+}

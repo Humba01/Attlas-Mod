@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "attlas:electron_ore"
-  },
-  "result": "attlas:electron_ingot",
-  "experience": 4.0,
-  "cookingtime": 100 
-}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "inquiry:indian_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:indian_block",
+    "count": 1
+  }
+}

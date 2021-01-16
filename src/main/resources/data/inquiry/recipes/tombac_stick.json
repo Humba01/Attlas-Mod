@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    " T ",
+    "   "
+  ],
+  "key": {
+    "T": {
+      "item": "inquiry:tombac_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:tombac_stick",
+    "count": 6
+  }
+}

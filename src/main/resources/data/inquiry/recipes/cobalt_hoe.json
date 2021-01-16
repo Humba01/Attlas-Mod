@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "C": {
+      "item": "inquiry:cobalt_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:cobalt_hoe",
+    "count": 1
+  }
+}

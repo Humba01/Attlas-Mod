@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "inquiry:block/titanium_block"
+    }
+  }
+}

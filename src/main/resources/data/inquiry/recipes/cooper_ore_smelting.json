@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "inquiry:cooper_ore"
+  },
+  "result": "inquiry:cooper_ingot",
+  "experience": 4.0,
+  "cookingtime": 250 
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    " N ",
+    "   "
+  ],
+  "key": {
+    "N": {
+      "item": "inquiry:nichrome_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:nichrome_stick",
+    "count": 6
+  }
+}

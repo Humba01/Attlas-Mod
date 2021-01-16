@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "attlas:nichrome_ore"
-  },
-  "result": "attlas:nichrome_ingot",
-  "experience": 4.0,
-  "cookingtime": 250 
-}

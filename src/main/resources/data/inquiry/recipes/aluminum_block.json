@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "inquiry:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:aluminum_block",
+    "count": 1
+  }
+}

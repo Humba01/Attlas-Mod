@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "inquiry:electron_ore"
+  },
+  "result": "inquiry:electron_ingot",
+  "experience": 4.0,
+  "cookingtime": 250 
+}

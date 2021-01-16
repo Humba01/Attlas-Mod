@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " B ",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "inquiry:brass_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:brass_stick",
+    "count": 6
+  }
+}

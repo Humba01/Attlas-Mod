@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " O ",
+    " O ",
+    "   "
+  ],
+  "key": {
+    "O": {
+      "item": "inquiry:osmium_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:osmium_stick",
+    "count": 6
+  }
+}

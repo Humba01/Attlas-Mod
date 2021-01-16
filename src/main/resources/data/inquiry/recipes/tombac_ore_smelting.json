@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "inquiry:tombac_ore"
+  },
+  "result": "inquiry:tombac_ingot",
+  "experience": 4.0,
+  "cookingtime": 250 
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "inquiry:cadmium_ore"
+  },
+  "result": "inquiry:cadmium_ingot",
+  "experience": 4.0,
+  "cookingtime": 250 
+}

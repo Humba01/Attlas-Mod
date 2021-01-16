@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "O": {
+      "item": "inquiry:osmium_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:osmium_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " C ",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "inquiry:chrome_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:chrome_stick",
+    "count": 6
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "attlas:osmium_ore"
-  },
-  "result": "attlas:osmium_ingot",
-  "experience": 4.0,
-  "cookingtime": 250 
-}

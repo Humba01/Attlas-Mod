@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " C ",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "inquiry:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:cobalt_stick",
+    "count": 6
+  }
+}

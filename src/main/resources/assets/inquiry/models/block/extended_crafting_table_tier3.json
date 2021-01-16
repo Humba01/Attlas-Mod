@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "inquiry:block/crafting_tables/extended_crafting_table_front_tier3",
+    "down": "inquiry:block/crafting_tables/extended_crafting_table_bottom_tier3",
+    "north": "inquiry:block/crafting_tables/extended_crafting_table_front_tier3",
+    "south": "inquiry:block/crafting_tables/extended_crafting_table_front_tier3",
+    "west": "inquiry:block/crafting_tables/extended_crafting_table_side_tier3",
+    "east": "inquiry:block/crafting_tables/extended_crafting_table_side_tier3",
+    "up": "inquiry:block/crafting_tables/extended_crafting_table_top_tier3"
+  }
+}

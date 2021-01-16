@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "attlas:indian_ore"
-  },
-  "result": "attlas:indian_ingot",
-  "experience": 4.0,
-  "cookingtime": 100 
-}

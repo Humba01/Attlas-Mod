@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    " S ",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "inquiry:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:silver_stick",
+    "count": 6
+  }
+}

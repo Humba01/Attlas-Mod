@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "T": {
+      "item": "inquiry:titanium_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:titanium_hoe",
+    "count": 1
+  }
+}

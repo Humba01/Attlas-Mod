@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "inquiry:chrome_ore"
+  },
+  "result": "inquiry:chrome_ingot",
+  "experience": 4.0,
+  "cookingtime": 100 
+}

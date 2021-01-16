@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "attlas:indian_ore"
-  },
-  "result": "attlas:indian_ingot",
-  "experience": 4.0,
-  "cookingtime": 250 
-}

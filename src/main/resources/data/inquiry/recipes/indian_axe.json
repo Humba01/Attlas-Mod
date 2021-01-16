@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II ",
+    "Is ",
+    " s "
+  ],
+  "key": {
+    "I": {
+      "item": "inquiry:indian_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:indian_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "inquiry:iridium_ore"
+  },
+  "result": "inquiry:iridium_ingot",
+  "experience": 4.0,
+  "cookingtime": 100 
+}

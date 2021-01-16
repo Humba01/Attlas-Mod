@@ -1,8 +1,8 @@
 # Inquiry Mod 
 
-*This mod use FabricMC API*
+**Essa modificação usa FabricMC API**
 
-$ Total Number of Itens/Blocks added ===> 224. $
+__Número total de Items e Blocos adicionados ===> 224.__
 
 ## Changelog v0.1.1 - Minecraft JE 1.16.4 _=_ 13/01/2021
 
@@ -10,7 +10,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 
 ## Changelog v0.1.0 - Minecraft JE 1.16.4 _=_ 13/01/2021
 
-### 24 New Ores (Group 1)
+### 24 Novos Minérios (Grupo 1)
 
 - Steel Ore;
 - Tin Ore;
@@ -36,7 +36,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Ore;
 - Electron Ore;
 
-### 24 New Ore Blocks (Group 1)
+### 24 Novos Blocos de Minério (Grupo 1)
 
 - Steel Block;
 - Tin Block;
@@ -62,7 +62,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Block;
 - Electron Block;
 
-### 24 New Ore Ingots (Group 1)
+### 24 Novas Barras de Minério (Grupo 1)
 
 - Steel Ingot;
 - Tin Ingot;
@@ -88,7 +88,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Ingot;
 - Electron Ingot;
 
-### 26 New Sticks
+### 26 Novos Gravetos
 
 - Stone Stick;
 - Iron Stick;
@@ -116,7 +116,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Stick;
 - Electron Stick;
 
-### 24 New Swords
+### 24 Novas Espadas
 
 - Steel Sword;
 - Tin Sword;
@@ -142,7 +142,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Sword;
 - Electron Sword;
 
-### 24 New Axes
+### 24 Novos Machados
 
 - Steel Axe;
 - Tin Axe;
@@ -168,7 +168,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Axe;
 - Electron Axe;
 
-### 24 New Pickaxes
+### 24 Novas Picaretas
 
 - Steel Pickaxe;
 - Tin Pickaxe;
@@ -194,7 +194,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Pickaxe;
 - Electron Pickaxe;
 
-### 24 New Shovels
+### 24 Novas Pás
 
 - Steel Shovel;
 - Tin Shovel;
@@ -220,7 +220,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Shovel;
 - Electron Shovel;
 
-### 24 New Hoes
+### 24 Novas Enxadas
 
 - Steel Hoe;
 - Tin Hoe;
@@ -246,7 +246,7 @@ $ Total Number of Itens/Blocks added ===> 224. $
 - Nichrome Hoe;
 - Electron Hoe;
 
-### 6 New Extended Crafting Tables
+### 6 Novos Bancadas de Trabalho Extendidas
 
 ! P.S ! -> You still don't have GUIs on any of the Workbenches.
 

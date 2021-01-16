@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " B ",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "inquiry:bismuth_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:bismuth_stick",
+    "count": 6
+  }
+}

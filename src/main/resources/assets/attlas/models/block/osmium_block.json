@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "attlas:block/ore_blocks/group1/osmium_block"
-  }
-}

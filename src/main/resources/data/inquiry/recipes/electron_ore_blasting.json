@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "inquiry:electron_ore"
+  },
+  "result": "inquiry:electron_ingot",
+  "experience": 4.0,
+  "cookingtime": 100 
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB ",
+    "Bs ",
+    " s "
+  ],
+  "key": {
+    "B": {
+      "item": "inquiry:bronze_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:bronze_axe",
+    "count": 1
+  }
+}

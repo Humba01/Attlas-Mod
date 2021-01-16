@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "inquiry:lead_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:lead_block",
+    "count": 1
+  }
+}

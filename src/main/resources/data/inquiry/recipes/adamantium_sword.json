@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " A ",
+    " s "
+  ],
+  "key": {
+    "A": {
+      "item": "inquiry:adamantium_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:adamantium_sword",
+    "count": 1
+  }
+}

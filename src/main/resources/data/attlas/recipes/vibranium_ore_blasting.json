@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "attlas:vibranium_ore"
-  },
-  "result": "attlas:vibranium_ingot",
-  "experience": 4.0,
-  "cookingtime": 100 
-}

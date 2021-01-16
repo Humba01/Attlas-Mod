@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    " L ",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "inquiry:lead_ingot"
+    }
+  },
+  "result": {
+    "item": "inquiry:lead_stick",
+    "count": 6
+  }
+}

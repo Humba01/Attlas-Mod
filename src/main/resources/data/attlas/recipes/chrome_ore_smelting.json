@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "attlas:chrome_ore"
-  },
-  "result": "attlas:chrome_ingot",
-  "experience": 4.0,
-  "cookingtime": 250 
-}

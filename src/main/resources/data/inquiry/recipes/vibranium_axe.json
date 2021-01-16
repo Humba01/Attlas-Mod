@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VV ",
+    "Vs ",
+    " s "
+  ],
+  "key": {
+    "V": {
+      "item": "inquiry:vibranium_ingot"
+    },
+    "s": {
+      "item": "inquiry:stone_stick"
+    }
+  },
+  "result": {
+    "item": "inquiry:vibranium_axe",
+    "count": 1
+  }
+}

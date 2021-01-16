@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "attlas",
+  "id": "inquiry",
   "version": "${version}",
 
-  "name": "Attlas Mod",
+  "name": "Inquiry Mod",
   "description": "O Mod da Exploração.",
   "authors": [
     "Humba01"
   ],
   "contact": {
     "homepage": "https://github.com/Humba01",
-    "sources": "https://github.com/Humba01/Attlas-Mod"
+    "sources": "https://github.com/Humba01/Inquiry-Mod"
   },
 
   "license": "CC0-1.0",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.humba01.attlas.AttlasMod"
+      "net.humba01.inquiry.InquiryMod"
     ]
   },
   "mixins": [
-    "attlas.mixins.json"
+    "inquiry.mixins.json"
   ],
 
   "depends": {

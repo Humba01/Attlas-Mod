@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "inquiry:thallium_ore"
+  },
+  "result": "inquiry:thallium_ingot",
+  "experience": 4.0,
+  "cookingtime": 100 
+}
