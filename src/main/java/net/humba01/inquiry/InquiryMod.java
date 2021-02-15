@@ -1,6 +1,7 @@
 package net.humba01.inquiry;
 
 import net.humba01.inquiry.blocks.*;
+import net.humba01.inquiry.blocks.weaving_table.*;
 import net.humba01.inquiry.itens.*;
 import net.humba01.inquiry.tools.*;
 import net.fabricmc.api.ModInitializer;
@@ -15,7 +16,7 @@ public class InquiryMod implements ModInitializer {
 	public static final String MOD_ID = "inquiry";
 
 	/* Abas */
-	public static final ItemGroup EXTENDED_CRAFTING_TABLES = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "crafting_tables"), () -> new ItemStack(Blocks.CRAFTING_TABLE));
+	public static final ItemGroup CRAFTING_TABLES = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "crafting_tables"), () -> new ItemStack(Blocks.CRAFTING_TABLE));
 	
 	public static final ItemGroup ORES = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "ores"), () -> new ItemStack(OresGroup1.STEEL_ORE));
 	
@@ -45,6 +46,6 @@ public class InquiryMod implements ModInitializer {
 		
 		OresGroup1.registryOresGroup1();
 		OresBlockGroup1.registryOresBlockGroup1();
-		CraftingTables.registryCraftingTables();
+		WeavingTable.registryWeavingTable();
 	}
 }
