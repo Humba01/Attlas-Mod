@@ -1,12 +1,17 @@
 {
   "itemGroup.inquiry.wools": "Inquiry [ Wools ]",
-  "itemGroup.inquiry.crafting_tables": "Inquiry [ Crafting Tables ]",
   "itemGroup.inquiry.sticks": "Inquiry [ Sticks ]",
   "itemGroup.inquiry.tools": "Inquiry [ Tools ]",
   "itemGroup.inquiry.ingots": "Inquiry [ Ingots Group 1 ]",
   "itemGroup.inquiry.ores": "Inquiry [ Ores Group 1 ]",
   "itemGroup.inquiry.ore_blocks": "Inquiry [ Ore Blocks Group 1 ]",
-
+  "itemGroup.inquiry.crafting_tables": "Inquiry [ Crafting Tables ]",
+  "itemGroup.inquiry.cromatic_brick_blocks": "Inquiry [ Cromatic Brick Blocks ]",
+  "itemGroup.inquiry.cromatic_concrete_blocks": "Inquiry [ Cromatic Concrete Blocks ]",
+  "itemGroup.inquiry.cromatic_cement_blocks": "Inquiry [ Cromatic Cement Blocks ]",
+  "itemGroup.inquiry.cromatic_wool_blocks": "Inquiry [ Cromatic Wool Blocks ]",
+  "itemGroup.inquiry.cromatic_stained_glass_blocks": "Inquiry [ Cromatic Stained Glass Blocks ]",
+  
   "item.inquiry.stone_stick": "Stone Stick",
   "item.inquiry.iron_stick": "Iron Stick",
   "item.inquiry.steel_stick": "Steel Stick",
@@ -234,11 +239,36 @@
   "block.inquiry.vibranium_block": "Vibranium Block",
   "block.inquiry.adamantium_block": "Adamantium Block",
 
-  "block.inquiry.extended_crafting_table_tier1": "Extended Crafting Table Tier 1",
-  "block.inquiry.extended_crafting_table_tier2": "Extended Crafting Table Tier 2",
-  "block.inquiry.extended_crafting_table_tier3": "Extended Crafting Table Tier 3",
-  "block.inquiry.extended_crafting_table_tier4": "Extended Crafting Table Tier 4",
-  "block.inquiry.extended_crafting_table_tier5": "Extended Crafting Table Tier 5",
-  "block.inquiry.extended_crafting_table_tier6": "Extended Crafting Table Tier 6"
+  "block.inquiry.weaving_table": "Weaving Table",
+
+  "block.inquiry.primary_red_bricks": "Primary Red Bricks",
+  "block.inquiry.primary_blue_bricks": "Primary Blue Bricks",
+  "block.inquiry.primary_yellow_bricks": "Primary Yellow Bricks",
+  "block.inquiry.secondary_green_bricks": "Secondary Green Bricks",
+  "block.inquiry.secondary_violet_bricks": "Secondary Violet Bricks",
+  "block.inquiry.secondary_orange_bricks": "Secondary Orange Bricks",
+  "block.inquiry.tertiary_orange_red_bricks": "Tertiary Orange Red Bricks",
+  "block.inquiry.tertiary_purplish_red_bricks": "Tertiary Purplish Red Bricks",
+  "block.inquiry.tertiary_greenish_yellow_bricks": "Tertiary Greenish Yellow Bricks",
+  "block.inquiry.tertiary_orange_yellow_bricks": "Tertiary Orange Yellow Bricks",
+  "block.inquiry.tertiary_blue_green_bricks": "Tertiary Blue Green Bricks",
+  "block.inquiry.tertiary_blue_purple_bricks": "Tertiary Blue Purple Bricks",
+  "block.inquiry.neutral_white_bricks": "Neutral White Bricks",
+  "block.inquiry.neutral_black_bricks": "Neutral Black Bricks",
+  "block.inquiry.neutral_gray_bricks": "Neutral Gray Bricks",
+  "block.inquiry.mixed_brown_bricks": "Mixed Brown Bricks",
+
+  "block.inquiry.primary_red_wool": "Primary Red Wool",
+  "block.inquiry.primary_blue_wool": "Primary Blue Wool",
+  "block.inquiry.primary_yellow_wool": "Primary Yellow Wool",
+  "block.inquiry.secondary_green_wool": "Secondary Green Wool",
+  "block.inquiry.secondary_violet_wool": "Secondary Violet Wool",
+  "block.inquiry.secondary_orange_wool": "Secondary Orange Wool",
+  "block.inquiry.tertiary_orange_red_wool": "Tertiary Orange Red Wool",
+  "block.inquiry.tertiary_purplish_red_wool": "Tertiary Purplish Red Wool",
+  "block.inquiry.tertiary_greenish_yellow_wool": "Tertiary Greenish Red Wool",
+  "block.inquiry.tertiary_orange_yellow_wool": "Tertiary Orange Yellow Wool",
+  "block.inquiry.tertiary_blue_green_wool": "Tertiary Blue Green Wool",
+  "block.inquiry.tertiary_blue_purple_wool": "Tertiary Blue Purple Wool"
 
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "inquiry:block/cromatic/bricks/tertiary_orange_yellow_bricks"
+  }
+}

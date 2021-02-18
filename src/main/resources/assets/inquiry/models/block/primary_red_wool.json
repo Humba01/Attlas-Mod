@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "inquiry:block/cromatic/wools/primary_red_wool"
+  }
+}

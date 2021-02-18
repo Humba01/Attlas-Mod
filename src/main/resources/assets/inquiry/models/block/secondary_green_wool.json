@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "inquiry:block/cromatic/wools/secondary_green_wool"
+  }
+}
