@@ -34,6 +34,7 @@ public class CromaticBrickSlabs {
   public static final Block MIXED_BROWN_BRICK_SLAB = new Block(FabricBlockSettings.of(Material.STONE).sounds(BlockSoundGroup.STONE));
 
   public static void registryPrimaryBrickSlabs() {}
+
   public static void registrySecondaryBrickSlabs() {}
   public static void registryTertiaryBrickSlabs() {}
   public static void registryNeutralBrickSlabs() {}

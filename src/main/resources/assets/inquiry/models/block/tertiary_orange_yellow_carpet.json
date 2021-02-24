@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "inquiry:block/cromatic/wools/tertiary_orange_yellow_wool"
+  }
+}

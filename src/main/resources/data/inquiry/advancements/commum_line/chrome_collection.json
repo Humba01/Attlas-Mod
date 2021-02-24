@@ -1,0 +1,82 @@
+{
+  "display": {
+    "icon": {
+      "item": "inquiry:chrome_ore"
+    },
+    "title": "Chrome Journey Collection",
+    "frame": "task",
+    "description": "Collect All Chrome Resources",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "inquiry:commum_line/cooper_collection",
+  "criteria": {
+    "chrome": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "inquiry:chrome_ore",
+            "count": {
+              "min": 40
+            }
+          },
+          {
+            "item": "inquiry:chrome_ingot",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:chrome_stick",
+            "count": {
+              "min": 6
+            }
+          },
+          {
+            "item": "inquiry:chrome_block",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:chrome_sword",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:chrome_pickaxe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:chrome_axe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:chrome_shovel",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:chrome_hoe",
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "chrome"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_sign"
+    },
+    "title": "Welcome to Inquiry Mod",
+    "frame": "goal",
+    "description": "Start the Journey!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "inquiry:textures/block/cromatic/bricks/primary_blue_bricks.png"
+  },
+  "criteria": {
+    "stone_stick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "inquiry:stone_stick",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "stone_stick"
+    ]
+  ]
+}

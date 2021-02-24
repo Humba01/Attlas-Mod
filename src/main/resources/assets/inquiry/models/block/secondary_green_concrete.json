@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "inquiry:block/cromatic/concretes/secondary_green_concrete"
+  }
+}

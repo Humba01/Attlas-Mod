@@ -1,0 +1,82 @@
+{
+  "display": {
+    "icon": {
+      "item": "inquiry:silver_ore"
+    },
+    "title": "Silver Journey Collection",
+    "frame": "task",
+    "description": "Collect All Silver Resources",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "inquiry:commum_line/bismuth_collection",
+  "criteria": {
+    "silver": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "inquiry:silver_ore",
+            "count": {
+              "min": 40
+            }
+          },
+          {
+            "item": "inquiry:silver_ingot",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:silver_stick",
+            "count": {
+              "min": 6
+            }
+          },
+          {
+            "item": "inquiry:silver_block",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:silver_sword",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:silver_pickaxe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:silver_axe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:silver_shovel",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:silver_hoe",
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "silver"
+    ]
+  ]
+}

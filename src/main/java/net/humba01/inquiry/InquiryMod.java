@@ -2,6 +2,11 @@ package net.humba01.inquiry;
 
 import net.humba01.inquiry.blocks.*;
 import net.humba01.inquiry.blocks.cromatic.bricks.CromaticBricks;
+import net.humba01.inquiry.blocks.cromatic.cements.CromaticCements;
+import net.humba01.inquiry.blocks.cromatic.concretes.CromaticConcretes;
+import net.humba01.inquiry.blocks.cromatic.stained_glasses.CromaticStainedGlassPanes;
+import net.humba01.inquiry.blocks.cromatic.stained_glasses.CromaticStainedGlasses;
+import net.humba01.inquiry.blocks.cromatic.wools.CromaticCarpets;
 import net.humba01.inquiry.blocks.cromatic.wools.CromaticWools;
 import net.humba01.inquiry.blocks.tables.weaving_table.*;
 import net.humba01.inquiry.itens.*;
@@ -30,15 +35,15 @@ public class InquiryMod implements ModInitializer {
 	
 	public static final ItemGroup CRAFTING_TABLES = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "crafting_tables"), () -> new ItemStack(Blocks.CRAFTING_TABLE));
 // NOVO
-	public static final ItemGroup CROMATIC_BRICK_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_brick_blocks"), () -> new ItemStack(Blocks.BRICKS));
+	public static final ItemGroup CROMATIC_BRICK_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_brick_blocks"), () -> new ItemStack(CromaticBricks.PRIMARY_BLUE_BRICKS));
 
-	public static final ItemGroup CROMATIC_WOOL_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_wool_blocks"), () -> new ItemStack(Blocks.WHITE_WOOL));
+	public static final ItemGroup CROMATIC_WOOL_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_wool_blocks"), () -> new ItemStack(CromaticWools.PRIMARY_BLUE_WOOL));
 
-	public static final ItemGroup CROMATIC_CONCRETE_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_concrete_blocks"), () -> new ItemStack(Blocks.WHITE_CONCRETE));
+	public static final ItemGroup CROMATIC_CONCRETE_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_concrete_blocks"), () -> new ItemStack(CromaticConcretes.PRIMARY_BLUE_CONCRETE));
 
-	public static final ItemGroup CROMATIC_CEMENT_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_cement_blocks"), () -> new ItemStack(Blocks.WHITE_CONCRETE_POWDER));
+	public static final ItemGroup CROMATIC_CEMENT_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_cement_blocks"), () -> new ItemStack(CromaticCements.PRIMARY_BLUE_CEMENT));
 
-	public static final ItemGroup CROMATIC_STAINED_GLASS_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_stained_glass_blocks"), () -> new ItemStack(Blocks.WHITE_STAINED_GLASS));
+	public static final ItemGroup CROMATIC_STAINED_GLASS_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_stained_glass_blocks"), () -> new ItemStack(CromaticStainedGlasses.PRIMARY_BLUE_STAINED_GLASS));
 
 	@Override
 	public void onInitialize() {
@@ -73,5 +78,36 @@ public class InquiryMod implements ModInitializer {
 		CromaticWools.registryTertiaryWools();
 		CromaticWools.registryNeutralWools();
 		CromaticWools.registryMixedWools();
+
+		CromaticCarpets.registryPrimaryCarpets();
+		CromaticCarpets.registrySecondaryCarpets();
+		CromaticCarpets.registryTertiaryCarpets();
+		CromaticCarpets.registryNeutralCarpets();
+		CromaticCarpets.registryMixedCarpets();
+
+		CromaticConcretes.registryPrimaryConcretes();
+		CromaticConcretes.registrySecondaryConcretes();
+		CromaticConcretes.registryTertiaryConcretes();
+		CromaticConcretes.registryNeutralConcretes();
+		CromaticConcretes.registryMixedConcretes();
+
+		CromaticCements.registryPrimaryCements();
+		CromaticCements.registrySecondaryCements();
+		CromaticCements.registryTertiaryCements();
+		CromaticCements.registryNeutralCements();
+		CromaticCements.registryMixedCements();
+
+		CromaticStainedGlasses.registryPrimaryStainedGlasses();
+		CromaticStainedGlasses.registrySecondaryStainedGlasses();
+		CromaticStainedGlasses.registryTertiaryStainedGlasses();
+		CromaticStainedGlasses.registryNeutralStainedGlasses();
+		CromaticStainedGlasses.registryMixedStainedGlasses();
+
+		CromaticStainedGlassPanes.registryPrimaryStainedGlassPanes();
+		CromaticStainedGlassPanes.registrySecondaryStainedGlassPanes();
+		CromaticStainedGlassPanes.registryTertiaryStainedGlassPanes();
+		CromaticStainedGlassPanes.registryNeutralStainedGlassPanes();
+		CromaticStainedGlassPanes.registryMixedStainedGlassPanes();
+		
 	}
 }

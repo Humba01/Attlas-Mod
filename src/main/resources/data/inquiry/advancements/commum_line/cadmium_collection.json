@@ -1,0 +1,82 @@
+{
+  "display": {
+    "icon": {
+      "item": "inquiry:cadmium_ore"
+    },
+    "title": "Cadmium Journey Collection",
+    "frame": "task",
+    "description": "Collect All Cadmium Resources",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "inquiry:commum_line/silver_collection",
+  "criteria": {
+    "cadmium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "inquiry:cadmium_ore",
+            "count": {
+              "min": 40
+            }
+          },
+          {
+            "item": "inquiry:cadmium_ingot",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cadmium_stick",
+            "count": {
+              "min": 6
+            }
+          },
+          {
+            "item": "inquiry:cadmium_block",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cadmium_sword",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cadmium_pickaxe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cadmium_axe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cadmium_shovel",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cadmium_hoe",
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cadmium"
+    ]
+  ]
+}

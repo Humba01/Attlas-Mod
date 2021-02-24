@@ -1,0 +1,82 @@
+{
+  "display": {
+    "icon": {
+      "item": "inquiry:steel_ore"
+    },
+    "title": "Steel Journey Collection",
+    "frame": "task",
+    "description": "Collect All Steel Resources",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "inquiry:commum_line/welcome_to_inquiry_mod",
+  "criteria": {
+    "steel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "inquiry:steel_ore",
+            "count": {
+              "min": 40
+            }
+          },
+          {
+            "item": "inquiry:steel_ingot",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:steel_stick",
+            "count": {
+              "min": 6
+            }
+          },
+          {
+            "item": "inquiry:steel_block",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:steel_sword",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:steel_pickaxe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:steel_axe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:steel_shovel",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:steel_hoe",
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "steel"
+    ]
+  ]
+}

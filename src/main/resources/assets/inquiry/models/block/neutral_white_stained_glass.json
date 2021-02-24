@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "inquiry:block/cromatic/stained_glasses/neutral_white_stained_glass"
+  }
+}

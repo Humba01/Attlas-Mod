@@ -6,8 +6,8 @@ import net.minecraft.block.Material;
 import net.minecraft.sound.BlockSoundGroup;
 
 public class CromaticStainedGlassStairs {
-  
-  //Primary Stained Glass Stairs
+
+  // Primary Stained Glass Stairs
   public static final Block PRIMARY_RED_STAINED_GLASS_STAIRS = new Block(FabricBlockSettings.of(Material.GLASS).sounds(BlockSoundGroup.GLASS));
   public static final Block PRIMARY_BLUE_STAINED_GLASS_STAIRS = new Block(FabricBlockSettings.of(Material.GLASS).sounds(BlockSoundGroup.GLASS));
   public static final Block PRIMARY_YELLOW_STAINED_GLASS_STAIRS = new Block(FabricBlockSettings.of(Material.GLASS).sounds(BlockSoundGroup.GLASS));

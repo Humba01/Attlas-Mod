@@ -1,0 +1,82 @@
+{
+  "display": {
+    "icon": {
+      "item": "inquiry:cooper_ore"
+    },
+    "title": "Cooper Journey Collection",
+    "frame": "task",
+    "description": "Collect All Cooper Resources",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "inquiry:commum_line/cadmium_collection",
+  "criteria": {
+    "cooper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "inquiry:cooper_ore",
+            "count": {
+              "min": 40
+            }
+          },
+          {
+            "item": "inquiry:cooper_ingot",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cooper_stick",
+            "count": {
+              "min": 6
+            }
+          },
+          {
+            "item": "inquiry:cooper_block",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cooper_sword",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cooper_pickaxe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cooper_axe",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cooper_shovel",
+            "count": {
+              "min": 1
+            }
+          },
+          {
+            "item": "inquiry:cooper_hoe",
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cooper"
+    ]
+  ]
+}
