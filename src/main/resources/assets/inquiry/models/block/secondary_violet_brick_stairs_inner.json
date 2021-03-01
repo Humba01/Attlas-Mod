@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "inquiry:block/cromatic/bricks/secondary_violet_bricks",
+    "top": "inquiry:block/cromatic/bricks/secondary_violet_bricks",
+    "side": "inquiry:block/cromatic/bricks/secondary_violet_bricks"
+  }
+}

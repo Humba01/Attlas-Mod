@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "inquiry:block/tables/template/white_planks",
+    "up": "inquiry:block/tables/weaving_table_top",
+    "down": "inquiry:block/tables/weaving_table_bottom",
+    "east": "inquiry:block/tables/weaving_table_side",
+    "west": "inquiry:block/tables/weaving_table_side",
+    "north": "inquiry:block/tables/weaving_table_front",
+    "south": "inquiry:block/tables/weaving_table_front"
+  }
+}

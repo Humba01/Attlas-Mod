@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "pane": "inquiry:block/cromatic/stained_glasses/tertiary_orange_red_stained_glass",
+    "edge": "inquiry:block/cromatic/stained_glasses_pane/tertiary_orange_red_stained_glass_pane_top"
+  }
+}

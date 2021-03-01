@@ -1,6 +1,7 @@
 package net.humba01.inquiry;
 
 import net.humba01.inquiry.blocks.*;
+import net.humba01.inquiry.blocks.cromatic.bricks.CromaticBrickStairs;
 import net.humba01.inquiry.blocks.cromatic.bricks.CromaticBricks;
 import net.humba01.inquiry.blocks.cromatic.cements.CromaticCements;
 import net.humba01.inquiry.blocks.cromatic.concretes.CromaticConcretes;
@@ -13,7 +14,6 @@ import net.humba01.inquiry.itens.*;
 import net.humba01.inquiry.tools.*;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
-import net.minecraft.block.Blocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
@@ -33,7 +33,7 @@ public class InquiryMod implements ModInitializer {
 	
 	public static final ItemGroup TOOLS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "tools"), () -> new ItemStack(Tools.STEEL_SWORD));
 	
-	public static final ItemGroup CRAFTING_TABLES = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "crafting_tables"), () -> new ItemStack(Blocks.CRAFTING_TABLE));
+	public static final ItemGroup CRAFTING_TABLES = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "crafting_tables"), () -> new ItemStack(WeavingTable.WEAVING_TABLE));
 // NOVO
 	public static final ItemGroup CROMATIC_BRICK_BLOCKS = FabricItemGroupBuilder.build(new Identifier(InquiryMod.MOD_ID, "cromatic_brick_blocks"), () -> new ItemStack(CromaticBricks.PRIMARY_BLUE_BRICKS));
 
@@ -72,6 +72,12 @@ public class InquiryMod implements ModInitializer {
 		CromaticBricks.registryTertiaryBricks();
 		CromaticBricks.registryNeutralBricks();
 		CromaticBricks.registryMixedBricks();
+
+		CromaticBrickStairs.registryPrimaryBrickStairs();
+		CromaticBrickStairs.registrySecondaryBrickStairs();
+		CromaticBrickStairs.registryTertiaryBrickStairs();
+		CromaticBrickStairs.registryNeutralBrickStairs();
+		CromaticBrickStairs.registryMixedBrickStairs();
 
 		CromaticWools.registryPrimaryWools();
 		CromaticWools.registrySecondaryWools();

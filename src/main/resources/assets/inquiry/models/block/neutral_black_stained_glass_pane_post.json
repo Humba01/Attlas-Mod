@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "pane": "inquiry:block/cromatic/stained_glasses/neutral_black_stained_glass",
+    "edge": "inquiry:block/cromatic/stained_glasses_pane/neutral_black_stained_glass_pane_top"
+  }
+}

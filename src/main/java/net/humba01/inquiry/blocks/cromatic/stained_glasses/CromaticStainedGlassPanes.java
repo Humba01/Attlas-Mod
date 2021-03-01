@@ -105,9 +105,9 @@ public class CromaticStainedGlassPanes extends StainedGlassPaneBlock {
   }
   
   public static void registryMixedStainedGlassPanes() {
-    Registry.register(Registry.BLOCK, new Identifier(InquiryMod.MOD_ID, "neutral_gray_stained_glass_pane"), NEUTRAL_GRAY_STAINED_GLASS_PANE);
-    Registry.register(Registry.ITEM, new Identifier(InquiryMod.MOD_ID, "neutral_gray_stained_glass_pane"), new BlockItem(NEUTRAL_GRAY_STAINED_GLASS_PANE, new Item.Settings().group(InquiryMod.CROMATIC_STAINED_GLASS_BLOCKS)));
-    BlockRenderLayerMap.INSTANCE.putBlock(CromaticStainedGlassPanes.NEUTRAL_GRAY_STAINED_GLASS_PANE, RenderLayer.getTranslucent());    
+    Registry.register(Registry.BLOCK, new Identifier(InquiryMod.MOD_ID, "mixed_brown_stained_glass_pane"), MIXED_BROWN_STAINED_GLASS_PANE);
+    Registry.register(Registry.ITEM, new Identifier(InquiryMod.MOD_ID, "mixed_brown_stained_glass_pane"), new BlockItem(MIXED_BROWN_STAINED_GLASS_PANE, new Item.Settings().group(InquiryMod.CROMATIC_STAINED_GLASS_BLOCKS)));
+    BlockRenderLayerMap.INSTANCE.putBlock(CromaticStainedGlassPanes.MIXED_BROWN_STAINED_GLASS_PANE, RenderLayer.getTranslucent());    
   }
 
 }
