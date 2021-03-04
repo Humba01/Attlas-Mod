@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "inquiry:block/cromatic/wools/neutral_gray_wool",
+    "top": "inquiry:block/cromatic/wools/neutral_gray_wool",
+    "side": "inquiry:block/cromatic/wools/neutral_gray_wool"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "inquiry:block/cromatic/wools/primary_red_wool",
+    "top": "inquiry:block/cromatic/wools/primary_red_wool",
+    "side": "inquiry:block/cromatic/wools/primary_red_wool"
+  }
+}

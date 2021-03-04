@@ -19,7 +19,6 @@ public class Sticks {
     public final static Item COBALT_STICK = new Item(new FabricItemSettings().group(InquiryMod.STICKS));
     public final static Item VIBRANIUM_STICK = new Item(new FabricItemSettings().group(InquiryMod.STICKS));
     public final static Item ADAMANTIUM_STICK = new Item(new FabricItemSettings().group(InquiryMod.STICKS));
-    
     public final static Item BISMUTH_STICK = new Item(new FabricItemSettings().group(InquiryMod.STICKS));
     public final static Item SILVER_STICK = new Item(new FabricItemSettings().group(InquiryMod.STICKS));
     public final static Item COOPER_STICK = new Item(new FabricItemSettings().group(InquiryMod.STICKS));

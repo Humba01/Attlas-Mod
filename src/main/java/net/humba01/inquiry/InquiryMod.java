@@ -4,10 +4,13 @@ import net.humba01.inquiry.blocks.*;
 import net.humba01.inquiry.blocks.cromatic.bricks.CromaticBrickStairs;
 import net.humba01.inquiry.blocks.cromatic.bricks.CromaticBricks;
 import net.humba01.inquiry.blocks.cromatic.cements.CromaticCements;
+import net.humba01.inquiry.blocks.cromatic.concretes.CromaticConcreteStairs;
 import net.humba01.inquiry.blocks.cromatic.concretes.CromaticConcretes;
 import net.humba01.inquiry.blocks.cromatic.stained_glasses.CromaticStainedGlassPanes;
+import net.humba01.inquiry.blocks.cromatic.stained_glasses.CromaticStainedGlassStairs;
 import net.humba01.inquiry.blocks.cromatic.stained_glasses.CromaticStainedGlasses;
 import net.humba01.inquiry.blocks.cromatic.wools.CromaticCarpets;
+import net.humba01.inquiry.blocks.cromatic.wools.CromaticWoolStairs;
 import net.humba01.inquiry.blocks.cromatic.wools.CromaticWools;
 import net.humba01.inquiry.blocks.tables.weaving_table.*;
 import net.humba01.inquiry.itens.*;
@@ -85,6 +88,12 @@ public class InquiryMod implements ModInitializer {
 		CromaticWools.registryNeutralWools();
 		CromaticWools.registryMixedWools();
 
+		CromaticWoolStairs.registryPrimaryWoolStairs();
+		CromaticWoolStairs.registrySecondaryWoolStairs();
+		CromaticWoolStairs.registryTertiaryWoolStairs();
+		CromaticWoolStairs.registryNeutralWoolStairs();
+		CromaticWoolStairs.registryMixedWoolStairs();
+
 		CromaticCarpets.registryPrimaryCarpets();
 		CromaticCarpets.registrySecondaryCarpets();
 		CromaticCarpets.registryTertiaryCarpets();
@@ -96,6 +105,12 @@ public class InquiryMod implements ModInitializer {
 		CromaticConcretes.registryTertiaryConcretes();
 		CromaticConcretes.registryNeutralConcretes();
 		CromaticConcretes.registryMixedConcretes();
+
+		CromaticConcreteStairs.registryPrimaryConcreteStairs();
+		CromaticConcreteStairs.registrySecondaryConcreteStairs();
+		CromaticConcreteStairs.registryTertiaryConcreteStairs();
+		CromaticConcreteStairs.registryNeutralConcreteStairs();
+		CromaticConcreteStairs.registryMixedConcreteStairs();
 
 		CromaticCements.registryPrimaryCements();
 		CromaticCements.registrySecondaryCements();
@@ -109,11 +124,16 @@ public class InquiryMod implements ModInitializer {
 		CromaticStainedGlasses.registryNeutralStainedGlasses();
 		CromaticStainedGlasses.registryMixedStainedGlasses();
 
+		CromaticStainedGlassStairs.registryPrimaryStainedGlassStairs();
+		CromaticStainedGlassStairs.registrySecondaryStainedGlassStairs();
+		CromaticStainedGlassStairs.registryTertiaryStainedGlassStairs();
+		CromaticStainedGlassStairs.registryNeutralStainedGlassStairs();
+		CromaticStainedGlassStairs.registryMixedStainedGlassStairs();
+
 		CromaticStainedGlassPanes.registryPrimaryStainedGlassPanes();
 		CromaticStainedGlassPanes.registrySecondaryStainedGlassPanes();
 		CromaticStainedGlassPanes.registryTertiaryStainedGlassPanes();
 		CromaticStainedGlassPanes.registryNeutralStainedGlassPanes();
 		CromaticStainedGlassPanes.registryMixedStainedGlassPanes();
-		
 	}
 }

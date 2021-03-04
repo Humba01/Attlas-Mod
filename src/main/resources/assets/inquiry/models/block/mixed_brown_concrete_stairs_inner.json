@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "inquiry:block/cromatic/concretes/mixed_brown_concrete",
+    "top": "inquiry:block/cromatic/concretes/mixed_brown_concrete",
+    "side": "inquiry:block/cromatic/concretes/mixed_brown_concrete"
+  }
+}

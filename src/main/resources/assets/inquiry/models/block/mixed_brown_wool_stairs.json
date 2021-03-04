@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "inquiry:block/cromatic/wools/mixed_brown_wool",
+    "top": "inquiry:block/cromatic/wools/mixed_brown_wool",
+    "side": "inquiry:block/cromatic/wools/mixed_brown_wool"
+  }
+}

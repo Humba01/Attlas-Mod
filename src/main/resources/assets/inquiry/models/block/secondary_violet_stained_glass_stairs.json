@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "inquiry:block/cromatic/stained_glasses/secondary_violet_stained_glass",
+    "top": "inquiry:block/cromatic/stained_glasses/secondary_violet_stained_glass",
+    "side": "inquiry:block/cromatic/stained_glasses/secondary_violet_stained_glass"
+  }
+}

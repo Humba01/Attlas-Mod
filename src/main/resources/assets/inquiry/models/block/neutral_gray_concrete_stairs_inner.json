@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "inquiry:block/cromatic/concretes/neutral_gray_concrete",
+    "top": "inquiry:block/cromatic/concretes/neutral_gray_concrete",
+    "side": "inquiry:block/cromatic/concretes/neutral_gray_concrete"
+  }
+}

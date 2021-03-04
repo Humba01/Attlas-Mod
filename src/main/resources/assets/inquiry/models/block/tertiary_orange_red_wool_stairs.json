@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "inquiry:block/cromatic/wools/tertiary_orange_red_wool",
+    "top": "inquiry:block/cromatic/wools/tertiary_orange_red_wool",
+    "side": "inquiry:block/cromatic/wools/tertiary_orange_red_wool"
+  }
+}
